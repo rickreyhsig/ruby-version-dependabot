@@ -21,8 +21,8 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-      day: "tuesday"
-      time: "06:00"
+      day: "friday"
+      time: "14:30"
       timezone: "America/Los_Angeles"
     pull-request-branch-name:
       separator: "-"
