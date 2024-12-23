@@ -32,6 +32,6 @@ updates:
       include: scope
     open-pull-requests-limit: 10
     versioning-strategy: lockfile-only
-    registries:
-      - rubygems-server-chime-jfrog-io-artifactory
-      - github-octocat
+    # registries:
+    #   - rubygems-server-chime-jfrog-io-artifactory
+    #   - github-octocat
